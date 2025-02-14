@@ -20,7 +20,6 @@ browser = Browser(
 	)
 )
 
-
 async def main():
 	agent = Agent(
 		task='In docs.google.com write my Papa a quick letter',
